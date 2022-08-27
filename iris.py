@@ -40,6 +40,8 @@ def predict():
     
     return render_template('iris_data.html',prediction=pred)
 
+    
+
 
 
 
